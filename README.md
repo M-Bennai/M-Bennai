@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @M-Bennai
-- 👀 I’m interested in ...
-- 
 
 I am software engineer at Yuri and Neil.
 
