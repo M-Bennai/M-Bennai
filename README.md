@@ -1,6 +1,6 @@
 Hi 👋 , I’m @M-Bennai
 
-I am software engineer at Yuri and Neil.
+I am web developer at Yuri and Neil.
 
 Skills: Node.js / React / GCP / Docker / Sass
 
